@@ -1,5 +1,11 @@
 # @primer/components
 
+## 34.3.1
+
+### Patch Changes
+
+- [#1824](https://github.com/primer/react/pull/1824) [`4eab65e5`](https://github.com/primer/react/commit/4eab65e57571d64a0f8a4fcb4aafbf47d3e98a2d) Thanks [@siddharthkp](https://github.com/siddharthkp)! - Overlay: Attach escape handler to overlay container instead of document to fix stopPropagation
+
 ## 34.3.0
 
 ### Minor Changes
